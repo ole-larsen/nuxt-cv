@@ -1,0 +1,116 @@
+{
+  "links": {
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "interests": "Interests",
+    "projects": "Projects"
+  },
+  "personalInfo": {
+    "name": "Oleg",
+    "lastName": "Nazarov",
+    "subHeadingText": "Full Stack Developer",
+    "city": "India",
+    "phoneNumber": "+91 - 9309737966",
+    "email": "nazarov_oleg@list.ru",
+    "linkedin": "https://www.linkedin.com/in/oleg-nazarov-536598244/",
+    "github": "https://github.com/ole-larsen/",
+    "telegram": "http://t.me/olelarsen",
+    "myDescription": "<p>JavaScript & Typescript, Go language ❤️</p><p>6+ years of hands-on experience in Frontend and Backend Development for Fintech Companies:</p><p>Being PHP/JavaScript Developer, had experience with PHP from versions 5.5 to 8.2, working to find the to way completely remove all legacy code and implementing the development process for cross-team collaboration. Our development team has grown from one person to a whole department...</p><p>Technologies used: Laravel, Symphony, MySQL, Redis, Vue2, React, Go and many more</p><p> After some time I changed stack to Typescript/JavaScript/Go, developing some projects like CRM dashboard for internal use from scratch, monitoring system, some microservices. Implemented a lot of useful solutions for integrations between services and monitoring applications.</p><p>CI/CD - Microservices development and integration\n - Backend from scratch\n - Frontend from scratch</p><p>Databases SQL/noSQL: MariaDB, MySQL, Postgres, MongoDB</p><p>Technologies used: ExpressJS, NestJS, Nuxt3, Vue2, Vue3, Go-swagger, Web3</p><p>Participated in code review and team onboarding</p>"
+  },
+  "educationDegrees": {
+    "title": "Education",
+    "univercity": {
+      "collage": "The Bonch-Bruevich Saint - Petersburg State University of Telecommunications",
+      "name": "Engineer Degree",
+      "item": "Communication Systems Protection",
+      "startEndDate": "September 2000 - May 2005"
+    },
+    "courses": {
+      "collage": "Saint-Petersburg State Politechnical University",
+      "name": "Professional Programming PHP and MYSQL",
+      "item": "Computer Science",
+      "startEndDate": "September 2015 - May 2016"
+    },
+    "degrees": {
+      "collage": "https://learn.javascript.ru",
+      "name": "Javascript/DOM/Interfaces",
+      "item": "Computer Science",
+      "startEndDate": "April 2017 - October 2017"
+    }
+  },
+  "workExperiences": {
+    "title": "Work Experience 🔨",
+    "works": {
+      "bequant": {
+        "position": "Software Engineer / FullStack Developer",
+        "company": "Bequant - https://bequant.io",
+        "responsibilities": "Responsible for designing, developing and maintaining a group of applications used by company<br/>I take technical decisions about which technologies use in each project and how the team will works (I had small team)<br/>Backend Developer: Go, Express, NodeJs, MSSQL, PostgreSQL, MongoDB.<br/>Frontend Developer: VueJs, ReactJs, Javascript, TypeScript, Web3",
+        "startEndDate": "May 2019 - August 2022"
+      },
+      "cointelegraph": {
+        "position": "Software Engineer / FullStack Developer",
+        "company": "Cointelegraph - https://cointelegraph.com",
+        "responsibilities": "Development and support of the media portal<br/>Full cycle of highload service development<br/>Elimination of legacy<br/>Infrastructure Development",
+        "startEndDate": "December 2016 - January 2019"
+      },
+      "coddan": {
+        "position": "Software Engineer",
+        "company": "Coddan CDNT, Applied Materials (USA)",
+        "responsibilities": "Industrial software development for the American customer (Applied Materials http://amat.com)<br/>Development of specialized software using PHP / Javascript<br/>DHTMLX, JQuery, Bootstrap, Angular, Yii2, Node.js, IIS, PHP 5.4 - 7.0, Javascript ES5-ES6<br/>Legacy adaptation to modern PSR/GJSS standarts<br/>Working with DHTMLX, JQuery, Bootstrap, Smarty, AngularJS, Yii2, Node.js, IIS, PHP 5.4 - 7.0, Javascript ES5-ES6. ClearCase, Git, Jira, Lotus Notes, Code review",
+        "startEndDate": "May 2016 - October 2016"
+      },
+      "freelance": {
+        "position": "Software Engineer",
+        "company": "Freelance",
+        "responsibilities": "Web developer based on WordPress, Bitrix, Netcat, Joomla",
+        "startEndDate": "August 2015 - May 2016"
+      },
+      "vikingRetail": {
+        "position": "Software Engineer",
+        "company": "vikingretail.com",
+        "responsibilities": "Web developer based on Bitrix, Netcat",
+        "startEndDate": "October 2013 - August 2015"
+      },
+      "start": {
+        "position": "Software Engineer",
+        "company": "Freelance",
+        "responsibilities": "Web developer based on Bitrix, Netcat, , WordPress",
+        "startEndDate": "January 2012 - October 2013"
+      },
+      "seismoshelf": {
+        "position": "Technical Support Engineer (System administrator)",
+        "company": "seismoshelf.com",
+        "responsibilities": "Organization and support of hosting;<br/>user support;<br/>Administration of physical and virtual servers, FreeBSD, Windows, Linux. Design and installation of local networks;<br/>Development and implementation of hardware and software systems for seismic data recorders based on Debian OS;<br/>Supervising the work of programmers to create specialized software;<br/>Development and adaptation of specialized software for the specific needs of the company;<br/>Full automation of the company's local network;<br/>Implementation and adaptation of the monitoring system for local networks and servers;<br/>Implementation of open source technologies without compromising user experience;<br/>Administration of 1C 7.7, 8.0, 8.1;<br/>Organization of a \"remote\" office (OpenVPN, NFS);<br/>Deployment of a mail system server based on postfix+dovecot;<br/>Implementation of virtualization (JAIL, ESXi, Qemu, XEN, etc.);<br/>programming of automatic telephone exchange;<br/>Implementation of Asterisk;<br/>Remote outsourcing (Windows service, Linux servers, FreeBSD)<br/>Website development (Wordpress, Joomla).",
+        "startEndDate": "January 2010 - December 2012"
+      }
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "iconsTitle": "Programming Languages & Tools",
+    "workflow": "Workflow",
+    "item": "Frontend development<br/>Web3 development<br/>Backend development<br/>Testing & Debugging<br/>REST API building<br/>Agile Development & Scrum<br/>Team working<br/>Design Patterns"
+  },
+  "interests": {
+    "title": "Hobbies",
+    "firstBlock": "Apart from being a web developer, I am engaged in raising my daughter, learning to play electronic percussion instruments, travelling and communicating with interesting people",
+    "secondBlock": "I spend a large amount of my free time exploring the latest technology advancements in the frontend and backend web technology development world and coding in my personal projects! Especially I love go and web3 development"
+  },
+  "projects": {
+    "title": "Personal Projects",
+    "plutonium": {
+      "name": "Plutonium",
+      "description": "NFT Marketplace"
+    },
+    "timeseries": {
+      "name": "Timeseries collector",
+      "description": "Service collecting metrics based on Postgres"
+    },
+    "other": {
+      "name": "Other",
+      "description": "All projects are stored in my github account. Feel free to investigate it"
+    }
+  }
+}

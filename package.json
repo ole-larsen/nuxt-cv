@@ -8,6 +8,22 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0"
+    "@fortawesome/free-brands-svg-icons": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@nuxtjs/color-mode": "^3.2.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/i18n": "^8.0.0-beta.7",
+    "@nuxtjs/style-resources": "^1.2.1",
+    "@types/bootstrap": "^5.2.6",
+    "@types/jump.js": "^1.0.4",
+    "nuxt": "3.0.0",
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0"
+  },
+  "dependencies": {
+    "@fortawesome/vue-fontawesome": "^3.0.2",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "jump.js": "^1.0.2"
   }
 }
