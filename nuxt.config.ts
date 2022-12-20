@@ -1,10 +1,10 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  ssr: false,
   app: {
     head: {
       charset: "utf-16",
-      viewport: "width=500, initial-scale=1",
-      title: "Oleg Nazarov Resume",
+      title: "Oleg Nazarov",
       meta: [
         { name: "description", content: "Oleg Nazarov Resume" }
       ],
